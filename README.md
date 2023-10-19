@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Asiuly GitHub stats](https://github-readme-stats.vercel.app/api?username=Asiuly)](https://github.com/Asiuly/github-readme-stats)
 <!--
 **Asiuly/Asiuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
