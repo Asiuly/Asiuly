@@ -7,7 +7,7 @@ Atualmente, estou desenvolvendo projetos como Trainee na empresa Junior: CatiJr.
 
 ## Euu
 
-<img align="right" width="450" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 ```js
 import Desenvolvedora from "Asiuly";
