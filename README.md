@@ -12,7 +12,7 @@ Atualmente, estou desenvolvendo projetos como Trainee na empresa Junior: CatiJr.
 ```js
 import Desenvolvedora from "Asiuly";
 
-class SobreMim extends Desenvolvedora {
+class infos extends Desenvolvedora {
   nome = "Luísa Tavares";
   area = "Desenvolvedora de Software";
   trabalho = "Trainee na empresa CatiJR";
