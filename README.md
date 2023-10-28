@@ -1,8 +1,8 @@
 ## 💜 Oii, meu nome é <strong>Luisa!</strong>
 
-> Sou uma estudante de Ciência da Computação apaixonada por programação!
+> Sou uma estudante de Ciência da Computação
 
-Atualmente, estou desenvolvendo projetos como Trainee na empresa Junior: CatiJr. 💙 - UFSCAR - São Carlos
+Atualmente, estou desenvolvendo projetos como Trainee na empresa Junior: CatiJr. 💙
 
 
 ## Euu
