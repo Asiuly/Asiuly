@@ -2,7 +2,7 @@
 
 > Sou uma estudante de Ciência da Computação
 
-Atualmente, estou desenvolvendo projetos como Trainee na empresa Junior: CatiJr. 💙
+Atualmente, sou desenvolvedora de software na empresa Junior: CatiJr. 💙
 
 
 ## Euu
