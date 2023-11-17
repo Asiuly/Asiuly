@@ -20,7 +20,7 @@ class myInfos extends Desenvolvedora {
 }
 
 class AboutMe extends Desenvolvedora {
-  this.hobbies = ["Jogar", "Ler", "Desenvolver"];
+  this.hobbies = ["Jogar", "Ler", "Desenvolver", "Animes"];
   this.paixoes = ["mitologia grega", "Harry Potter"];
   this.idade = ["18 anos"];
 }
