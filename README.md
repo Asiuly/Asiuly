@@ -14,8 +14,8 @@ import Desenvolvedora from "Asiuly";
 
 class myInfos extends Desenvolvedora {
   nome = "Luísa Tavares";
-  area = "Desenvolvedora de Software";
-  trabalho = "Trainee na empresa CatiJR";
+  area = "Desenvolvimento e Tecnologia";
+  trabalho = "Desenvolvedora back-end na empresa CatiJR";
   faculdade = "UFSCAR - Ciência da Computação";
 }
 
