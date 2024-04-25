@@ -7,9 +7,9 @@
 <img align="right" width="275" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 ```js
-import Desenvolvedora from "Asiuly";
+import Developer from "Asiuly";
 
-class myInfos extends Desenvolvedora {
+class myInfos extends Developer {
   nome = "Luísa Tavares";
   area = "Desenvolvimento e Tecnologia";
   trabalho = "Desenvolvedora back-end na empresa CatiJR";
@@ -18,8 +18,8 @@ class myInfos extends Desenvolvedora {
 
 class AboutMe extends Desenvolvedora {
   this.hobbies = ["Jogar", "Ler", "Desenvolver", "Animes"];
-  this.paixoes = ["mitologia grega", "Harry Potter"];
-  this.idade = ["18 anos"];
+  this.paixoes = ["Marvel", "Harry Potter"];
+  this.birth = ["2005"];
 }
 ```
 
