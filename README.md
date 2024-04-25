@@ -1,5 +1,6 @@
-## 💜 Oii, meu nome é <strong>Luisa!</strong>
+## 💜 Oii, meu nome é <strong>Luisa!</strong> e sou estudante de Ciência da Computação @Ufscar
 
+###Meu Linkedin 💙
 > https://www.linkedin.com/in/luisatav/
 
 ## Euu
