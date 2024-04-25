@@ -38,15 +38,3 @@ class AboutMe extends Desenvolvedora {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-
-## Meus Status Github
-
-<a href="https://github.com/Asiuly">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asiuly&theme=radical&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Asiuly">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Asiuly&show_icons=true&theme=radical&line_height=27" alt="Asiuly github stats"/>
-</a>
-
