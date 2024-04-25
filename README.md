@@ -1,9 +1,6 @@
 ## 💜 Oii, meu nome é <strong>Luisa!</strong>
 
-> Sou uma estudante de Ciência da Computação
-
-Atualmente, sou desenvolvedora de software na empresa Junior: CatiJr. 💙
-
+> https://www.linkedin.com/in/luisatav/
 
 ## Euu
 
