@@ -14,16 +14,17 @@ class myInfos extends Developer {
   area = "Pesquisadora Cientifíca @ FAPESP";
   trabalho = "Desenvolvedora Backend (NestJS)";
   faculdade = "UFSCAR - Ciência da Computação desde 2023";
+  obs = "desça a página para ver minhas habilidades";
 }
 
 class AboutMe extends Desenvolvedora {
-  this.hobbies = ["Jogar", "Ler", "Desenvolver", "Animes"];
+  this.hobbies = ["Jogar", "Ler", "Desenvolver"];
   this.paixoes = ["Patins, RPG, e Mitologia"];
   this.birth = ["2005"];
 }
 ```
 
-## Skills
+## Insígnias de conhecimento!
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
