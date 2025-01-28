@@ -14,11 +14,10 @@ class myInfos extends Developer {
   area = "Pesquisadora Cientifíca @ FAPESP";
   trabalho = "Desenvolvedora Backend (NestJS)";
   faculdade = "UFSCAR - Ciência da Computação desde 2023";
-  obs = "desça a página para ver minhas habilidades";
+  Obs = "desça a página para ver minhas habilidades";
 }
 
 class AboutMe extends Desenvolvedora {
-  this.hobbies = ["Jogar", "Ler", "Desenvolver"];
   this.paixoes = ["Patins, RPG, e Mitologia"];
   this.birth = ["2005"];
 }
