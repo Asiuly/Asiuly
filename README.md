@@ -4,7 +4,7 @@
 
 ## Euu
 
-<img align="right" width="310" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<img align="right" width="330" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 ```js
 import Developer from "Asiuly";
@@ -19,6 +19,7 @@ class myInfos extends Developer {
 
 class AboutMe extends Desenvolvedora {
   this.paixoes = ["Patins, RPG, e Mitologia"];
+  this.favoriteGames = ["Fortnite, Valorant, Minecraft!"];
   this.birth = ["2005"];
 }
 ```
