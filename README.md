@@ -4,7 +4,7 @@
 
 ## Euu
 
-<img align="right" width="330" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 ```js
 import Developer from "Asiuly";
